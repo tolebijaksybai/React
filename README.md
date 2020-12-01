@@ -9,3 +9,8 @@
 
 ![Opera Снимок_2020-11-24_202017_localhost](https://user-images.githubusercontent.com/52714747/100106349-a7305e80-2e92-11eb-88bb-3a41b04db803.png)
 
+<h4 align="left">Вид на приложение Todo: <a href="https://tolebijaksybai.github.io/React/todo-app/public/" target="_blank">Todo app v0</a></h4>
+
+![Снимок](https://user-images.githubusercontent.com/52714747/100698718-5bfeda00-33c3-11eb-95d7-d9512ed1dc03.PNG)
+
+
